@@ -57,6 +57,12 @@ The system assigns scores based on:
 - Create a scoring algorithm.
 - Build a simple UI for student report submission and evaluation.
 
+##Contributors
+-Keshab Dey
+-Manojit Pal
+-Shrestha Karmakar
+-Churamani Kumar
+
 ## Contributing
 Pull requests are welcome! If you have suggestions, feel free to create an issue or submit a PR.
 
